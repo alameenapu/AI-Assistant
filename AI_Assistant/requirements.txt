@@ -1,1 +1,13 @@
-
+streamlit
+openai
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+chromadb
+sentence-transformers
+python-decouple
+tiktoken
+pypdf
+Pillow
